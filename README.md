@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lquta
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning c#
 
 <!---
 Lquta/Lquta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
